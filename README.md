@@ -1,2 +1,2 @@
 # cuddly-spoon
-Demo repo for CIT Tech Days stuff.
+Repository for the cuddliest of spoons.
